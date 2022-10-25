@@ -1,0 +1,36 @@
+.div-superior{
+    padding-inline: 1.5rem;
+    padding-block:2rem ;
+    border-radius: 0.3125rem 0.3125rem;
+    background-color: white;
+}
+
+.superior-p:nth-of-type(1){
+ font-weight: 700;
+ line-height: 1.25rem;
+ color: var(--Bright-Yellow);
+ margin-bottom: 1rem;
+}
+
+.superior-p:nth-of-type(2){
+    font-size: 1.625rem;
+    color: var(--Grayish-Blue);
+    font-size: 0.875rem;
+}
+
+.seção-esquerda{
+    color: cyan;
+    padding: 1.5rem;
+}
+
+.esquerda div p:nth-of-type(1){
+   color: white;
+   font-size: 2rem;
+   font-weight: 700;
+   font-weight: 2.375rem;
+}
+
+.esquerda div p:nth-of-type(2){
+    color: white;
+    opacity: 0.5;
+}
